@@ -1,8 +1,8 @@
 {Content-Type : application/json
 {[
-  'uid':'01',
-  'updateDate':'2020-02-11T00:00:00.0Z',
-  'titleTitle':'Teste de leitura ALEXA',
-  'mainText':'Exemplo de texto a ser lido',
-  'redirectionUrl':'https://globo.com'
+  "uid":"01",
+  "updateDate":"2020-02-11T00:00:00.0Z",
+  "titleTitle":"Teste de leitura ALEXA",
+  "mainText":"Exemplo de texto a ser lido",
+  "redirectionUrl":"https://globo.com"
 ]}}
