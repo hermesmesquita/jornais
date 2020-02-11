@@ -1,4 +1,4 @@
-{Content-Type : application/json
+{"Content-Type" : "application/json"
 {[
   "uid":"01",
   "updateDate":"2020-02-11T00:00:00.0Z",
