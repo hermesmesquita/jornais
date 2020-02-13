@@ -1,8 +1,36 @@
 {
- "Content-Type" : "application/json"{
-  "uid":"01",
-  "updateDate":"2020-02-11T00:00:00.0Z",
-  "titleText":"Teste de leitura ALEXA",
-  "mainText":"Exemplo de texto a ser lido",
-  "redirectionUrl":"https://globo.com"}
+  "version": "string",
+  "sessionAttributes": {
+    "key": "value"
+  },
+  "response": {
+    "outputSpeech": {
+      "type": "PlainText",
+      "text": "Plain text string to speak",
+      "playBehavior": "REPLACE_ENQUEUED"      
+    },
+    "card": {
+      "type": "Standard",
+      "title": "Title of the card",
+      "text": "Text content for a standard card",
+      "image": {
+        "smallImageUrl": "https://url-to-small-card-image...",
+        "largeImageUrl": "https://url-to-large-card-image..."
+      }
+    },
+    "reprompt": {
+      "outputSpeech": {
+        "type": "PlainText",
+        "text": "Plain text string to speak",
+        "playBehavior": "REPLACE_ENQUEUED"             
+      }
+    },
+    "directives": [
+      {
+        "type": "InterfaceName.Directive"
+        (...properties depend on the directive type)
+      }
+    ],
+    "shouldEndSession": true
+  }
 }
