@@ -28,7 +28,6 @@
     "directives": [
       {
         "type": "InterfaceName.Directive"
-        (...properties depend on the directive type)
       }
     ],
     "shouldEndSession": true
