@@ -1,3 +1,7 @@
 {
-  "type":"object"
-}
+ "uid": "noticia",
+ "updateDate": "2020-06-03T00:00:01.0Z",
+ "titleText": "Teste para skill ALEXA",
+ "mainText": "A Sofia ainda não tomou banho. Recomendamos que o faça logo.",
+ "redirectionUrl": "https://g1.com.br"
+ }
