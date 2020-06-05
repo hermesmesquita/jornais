@@ -1,4 +1,4 @@
-{
+[{
  "uid": "noticia",
  "updateDate": "2020-06-04T00:00:03.0Z",
  "titleText": "Teste para skill ALEXA",
@@ -11,4 +11,4 @@
  "titleText": "Mais um Teste para skill ALEXA",
  "mainText": "Demos um salto!!",
  "redirectionUrl": "https://g1.com.br"
- }
+ }]
