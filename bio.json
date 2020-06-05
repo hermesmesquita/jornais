@@ -1,14 +1,14 @@
-[{
+{
  "uid": "noticia",
- "updateDate": "2020-06-03T00:00:03.0Z",
+ "updateDate": "2020-06-04T00:00:03.0Z",
  "titleText": "Teste para skill ALEXA",
  "mainText": "A Sofia ainda não tomou banho. Recomendamos que o faça logo.",
  "redirectionUrl": "https://g1.com.br"
  }
 {
  "uid": "noticia2",
- "updateDate": "2020-06-03T00:00:05.0Z",
- "titleText": "Teste para skill ALEXA",
+ "updateDate": "2020-06-04T00:00:05.0Z",
+ "titleText": "Mais um Teste para skill ALEXA",
  "mainText": "Demos um salto!!",
  "redirectionUrl": "https://g1.com.br"
- }]
+ }
