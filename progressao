@@ -1,0 +1,14 @@
+[{
+ "uid": "noticia",
+ "updateDate": "2020-06-04T00:00:04.0Z",
+ "titleText": "Teste para skill ALEXA",
+ "mainText": "Um milagre aconteceu. A Sofia está banhada!! Viva!!",
+ "redirectionUrl": "https://g1.com.br"
+ },
+{
+ "uid": "noticia2",
+ "updateDate": "2020-06-04T00:00:06.0Z",
+ "titleText": "Mais um Teste para skill ALEXA",
+ "mainText": "Demos um salto!!",
+ "redirectionUrl": "https://g1.com.br"
+ }]
